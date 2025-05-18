@@ -1,0 +1,3 @@
+Nama = Bima Niskala Lisyanda
+Divisi  = Programming
+Sub Divisi = Machine Learning
